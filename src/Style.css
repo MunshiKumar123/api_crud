@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+    cursor: pointer;
+}
+
+
+
+.stu {
+    width: 250px;
+
+    padding: 10px;
+    margin: 25px 100px;
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 25px;
+    border: solid 1px gray;
+    box-shadow: 0 5px 2px gray;
+    display: inline-block;
+}
+
+
+.stu1 {
+    width: 750px;
+    padding: 25px;
+    margin: 25px 100px;
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 25px;
+    border: solid 1px gray;
+    box-shadow: 0 5px 2px gray;
+    /* display: inline-block; */
+}
+
+
+.stu2 {
+    width: 80%;
+    padding: 25px;
+    margin: 25px 100px;
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 25px;
+    border: solid 1px gray;
+    box-shadow: 0 5px 2px gray;
+    /* display: inline-block; */
+}
+
+ul li {
+    list-style-type: none;
+
+}
+
+
+
+
+.inputUnder{
+    /* margin-top: -67px;
+    margin-left: 406px; */
+    margin-top: -14%;
+    margin-left: 91%;
+    cursor: pointer;
+}
+
+
+.bg-danger1{
+    background-color: #E14A36;
+}
+.bg-danger2{
+    background-image: linear-gradient(#003BC8, #22337B);
+    
+}
+.bg-danger3{
+background-color: #142E9F;    
+}
+.bg-danger4{
+    background-image: linear-gradient(#3F6A7B, #1C5C84);
+}
